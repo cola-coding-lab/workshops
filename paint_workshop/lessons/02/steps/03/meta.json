@@ -1,0 +1,9 @@
+{
+    "step": {
+        "id": "step3",
+        "title": "Link und QR Code",
+        "description": "This will be overwritten by description.md",
+        "isOptional": false,
+        "hint": false
+    }
+}
